@@ -14,10 +14,12 @@
 
 | Feature              | Supported |
 |----------------------|:---------:|
-| Auto mining          |     ✅     |
+| Collect gold          |     ✅     |
 | Purchase raccoons/cats |     ✅     |
+| Upgrade storage     |     ✅     |
+| Upgrade raccoons/cats |     ✅     |
+| Put your raccoons/cats to work in the mine |     ✅     | 
 | Support tdata / pyrogram .session / telethon .session |     ✅     |
-| Sends error message to Telegram |     ✅     |
 
 ## .env File Settings
 
